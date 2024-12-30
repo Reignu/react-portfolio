@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Career Climb",
+    "imageSrc": "projects/project.png",
+    "description": "Interactive website that uses .gov API to allow for a comprehensive job search",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Reignu/Career-Climb"
+  },
+  {
+    "title": "To Do List",
+    "imageSrc": "projects/project.png",
+    "description": "Website that allows tracking tasks for accountability",
+    "skills": ["React", "NodeJS", "Express", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Reignu/todolist"
+  },
+  {
+    "title": "Wearhouse",
+    "imageSrc": "projects/project.png",
+    "description": "Inventory management system with authentication, payment integration and database",
+    "skills": ["Django", "MySQL", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Reignu/Wearhouse"
+  }
+]
