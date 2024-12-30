@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "BlockFi",
+    "startDate": "June 2020",
+    "endDate": "Aug 2020",
+    "experiences": ["Worked on blockchain APIs", "Improved system efficiency by 20%"],
+    "imageSrc": "history/blockfi.png"
+  },
+  {
+    "role": "Software Development Assistant",
+    "organisation": "Glasgow Caledonian University",
+    "startDate": "Apr 2024",
+    "endDate": "Aug 2024",
+    "experiences": ["Helped deliver tutorials and seminars", "Contributed to year on year improved student scores by over 10%"],
+    "imageSrc": "history/gcu.png"
+  },
+  {
+    "role": "AI Trainer",
+    "organisation": "Outlier",
+    "startDate": "April 2024",
+    "endDate": "Present",
+    "experiences": ["Trained AI by assessing prompts and response based on specific criteria", "Improved response accuracy by 20%"],
+    "imageSrc": "history/outlier.png"
+  }
+]
