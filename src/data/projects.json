@@ -12,7 +12,7 @@
     "imageSrc": "projects/project.png",
     "description": "Website that allows tracking tasks for accountability",
     "skills": ["React", "NodeJS", "Express", "MongoDB"],
-    "demo": "https://www.example.com",
+    "demo": "https://reignutodolist.netlify.app/",
     "source": "https://github.com/Reignu/todolist"
   },
   {
