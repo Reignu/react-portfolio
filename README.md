@@ -52,3 +52,42 @@ To create a production build:
 ```bash
 npm run build
 ```
+
+The built files will be in the `dist` directory.
+
+## 📁 Project Structure
+```
+react-portfolio/
+├── public/
+│ └── assets/ # Images and icons
+├── src/
+│ ├── components/ # React components
+│ ├── data/ # JSON data files
+│ ├── utils/ # Utility functions
+│ ├── App.jsx # Main App component
+│ └── main.jsx # Entry point
+└── package.json
+```
+
+
+## 📱 Responsive Design
+
+The site is fully responsive with breakpoints at:
+- Mobile: < 830px
+- Desktop: ≥ 830px
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📧 Contact
+
+For any questions or feedback, please reach out through the contact section on the portfolio website.
