@@ -1,19 +1,19 @@
 [
   {
-    "title": "Career Climb",
+    "title": "SP Hub",
     "imageSrc": "projects/project.png",
-    "description": "Interactive website that uses .gov API to allow for a comprehensive job search",
-    "skills": ["HTML", "CSS", "JavaScript"],
+    "description": "A full-stack Scottish Premiership fantasy app",
+    "skills": ["Spring", "React", "PostgreSQL"],
     "demo": "https://www.example.com",
-    "source": "https://github.com/Reignu/Career-Climb"
+    "source": "https://github.com/Reignu/Scottish-Prem-Hub"
   },
   {
-    "title": "To Do List",
+    "title": "Cruisely",
     "imageSrc": "projects/project.png",
-    "description": "Website that allows tracking tasks for accountability",
-    "skills": ["React", "NodeJS", "Express", "MongoDB"],
+    "description": "Enterprise-ready cruise management platform",
+    "skills": ["React", "Java", "JWT", "Hibernate", "Maven"],
     "demo": "https://www.example.com",
-    "source": "https://github.com/Reignu/todolist"
+    "source": "https://github.com/Reignu/Cruisely"
   },
   {
     "title": "Wearhouse",
