@@ -2,16 +2,16 @@
   {
     "role": "Software Engineer",
     "organisation": "BlockFi",
-    "startDate": "June 2020",
-    "endDate": "Aug 2020",
+    "startDate": "June 2021",
+    "endDate": "Aug 2021",
     "experiences": ["Worked on blockchain APIs", "Improved system efficiency by 20%"],
     "imageSrc": "history/blockfi.png"
   },
   {
     "role": "Software Development Assistant",
     "organisation": "Glasgow Caledonian University",
-    "startDate": "Apr 2024",
-    "endDate": "Aug 2024",
+    "startDate": "Apr 2023",
+    "endDate": "Aug 2023",
     "experiences": ["Helped deliver tutorials and seminars", "Contributed to year on year improved student scores by over 10%"],
     "imageSrc": "history/gcu.png"
   },
