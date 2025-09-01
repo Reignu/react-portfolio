@@ -1,11 +1,38 @@
 :root {
-  /* colours */
+  /* Dark theme (default) */
   --color-text: #fff;
   --color-primary: #576cbc;
   --color-secondary: #19376d;
   --color-dark: #0b2447;
   --color-bg: #04152d;
+  --color-card-bg: rgba(12, 12, 12, 0.6);
+  --color-blur: rgba(25, 55, 109, 0.7);
+  --color-project-gradient-start: #576cbc;
+  --color-project-gradient-end: #132a53;
+  --color-project-shadow: #04152d;
+  --color-history-bg: #19376d;
+  --color-button-text: #fff;
+  --color-menu-bg: linear-gradient(0deg, rgba(25, 55, 109, 0.2) 0%, rgba(25, 55, 109, 1) 100%);
+  --menu-icon-filter: none;
 
   /* Fonts */
   --font-robot: "Roboto";
+}
+
+[data-theme="light"] {
+  /* Light theme */
+  --color-text: #04152d;
+  --color-primary: #7c9bdd;
+  --color-secondary: #e8f0fe;
+  --color-dark: #f8f9fa;
+  --color-bg: #ffffff;
+  --color-card-bg: rgba(248, 249, 250, 0.8);
+  --color-blur: rgba(87, 108, 188, 0.3);
+  --color-project-gradient-start: #e3f2fd;
+  --color-project-gradient-end: #bbdefb;
+  --color-project-shadow: rgba(0, 0, 0, 0.1);
+  --color-history-bg: rgba(87, 108, 188, 0.1);
+  --color-button-text: #04152d;
+  --color-menu-bg: linear-gradient(0deg, rgba(248, 249, 250, 0.95) 0%, rgba(248, 249, 250, 1) 100%);
+  --menu-icon-filter: invert(1);
 }

@@ -79,11 +79,11 @@
   flex-direction: row;
   align-items: center;
   gap: 17px;
-  background: #19376d; /* Placeholder in case linear gradient is not supported by the browser */
+  background: var(--color-history-bg);
   background: linear-gradient(
     90deg,
-    #19376d 0%,
-    rgba(25, 55, 109, 0) 100%
+    var(--color-history-bg) 0%,
+    transparent 100%
   );
   border-radius: 10px;
   padding: 24px;
