@@ -22,7 +22,7 @@
 .title {
   font-size: 72px;
   font-weight: 900;
-  margin-bottom: 33px;
+  margin-bottom: 20px;
   font-family: var(--font-roboto);
   background: linear-gradient(
     90deg, 
@@ -34,10 +34,20 @@
   -webkit-text-fill-color: transparent;
 }
 
+.subtitle {
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 25px;
+  color: var(--color-text);
+  opacity: 0.8;
+  font-family: var(--font-roboto);
+}
+
 .description {
   font-size: 30px;
   font-family: var(--font-roboto);
-  margin-bottom: 52px;
+  margin-bottom: 45px;
+  line-height: 1.4;
 }
 
 .contactBtn {

@@ -18,9 +18,17 @@
   {
     "role": "AI Trainer",
     "organisation": "Outlier",
-    "startDate": "April 2024",
-    "endDate": "Present",
+    "startDate": "June 2024",
+    "endDate": "June 2025",
     "experiences": ["Trained AI by assessing prompts and response based on specific criteria", "Improved response accuracy by 20%"],
     "imageSrc": "history/outlier.png"
+  },
+  {
+    "role": "Technology Analyst",
+    "organisation": "LOOPSIO",
+    "startDate": "Aug 2025",
+    "endDate": "Present",
+    "experiences": ["Liaise with a range of stakeholders (university researchers, industry professionals) to gather project requirements and identify appropriate software solutions", "Collaborate with software developers and clients to meet the user requirements and business needs"],
+    "imageSrc": "history/loopsio.jpeg"
   }
 ]
