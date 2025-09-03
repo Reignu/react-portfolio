@@ -11,17 +11,29 @@
   color: var(--color-text);
   font-size: 35px;
   font-weight: 700;
-  text-align: center;
+  text-align: left;
+  margin-bottom: 60px;
+}
+
+.category {
   margin-bottom: 50px;
+}
+
+.categoryTitle {
+  color: var(--color-text);
+  font-size: 24px;
+  font-weight: 600;
+  text-align: left;
+  margin-bottom: 30px;
+  opacity: 0.9;
 }
 
 .skills {
   display: flex;
   flex-wrap: wrap;
   gap: 37px;
-  justify-content: center;
+  justify-content: flex-start;
   max-width: 1000px;
-  margin: 0 auto;
 }
 
 .skill {
@@ -59,7 +71,7 @@
 }
 
 .skill p {
-  font-size: 25px;
+  font-size: 22px;
   font-family: var(--font-roboto);
   font-weight: 500;
 }
@@ -70,6 +82,10 @@
   }
 
   .skill p {
+    font-size: 18px;
+  }
+  
+  .categoryTitle {
     font-size: 20px;
   }
 }
